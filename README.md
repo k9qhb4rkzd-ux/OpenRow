@@ -1,5 +1,7 @@
 # OpenRow
 
+RELEASE DATE FOR SOURCE CODE IS TBD ONCE CODE IS STABLE AND WE REACH BETA, WHICH IS SOON.
+
 **An open-source, from-scratch reimplementation of the Saints Row (2006) game engine.**
 
 OpenRow is a native reimplementation of the engine that shipped with the original
