@@ -6,7 +6,7 @@ OpenRow is a native reimplementation of the engine that shipped with the origina
 *Saints Row* on Xbox 360. It is not an emulator and not a mod loader  it is new C++
 that reads the retail game's data files directly and runs the game on modern hardware,
 in a modern renderer, at framerates and resolutions the original never targeted.
-
+See https://ko-fi.com/itismrwonderful if you want to buy a coffee :)
 
 > **Status: pre-alpha.** OpenRow boots, streams Stilwater, plays the intro cutscene,
 > runs player creation, and executes the shipped mission scripts. It is not a finished
